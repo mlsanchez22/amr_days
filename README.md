@@ -27,10 +27,10 @@ Access requires PhysioNet credentialing, CITI training, and DUA approval.
 For more details: [MIMIC-IV on PhysioNet](https://physionet.org/content/mimiciv/).
 
 ## 🛠️ Repository Structure
-- `notebooks/` → Jupyter/Colab notebooks for data extraction and exploratory analysis.  
-- `sql/` → BigQuery SQL queries to build cohorts and define microorganism–antibiotic blocks.  
-- `scripts/` → Python utilities for cleaning, feature engineering, and statistical analysis.  
-- `docs/` → Project documentation and diagrams (study flowchart, cohort definitions, etc.).  
+- `sql/` → BigQuery SQL queries to build cohorts and define microorganism–antibiotic blocks.
+- *`notebooks/` → Jupyter/Colab notebooks for data extraction and exploratory analysis./*
+- *`scripts/` → Python utilities for cleaning, feature engineering, and statistical analysis./*
+- *`docs/` → Project documentation and diagrams (study flowchart, cohort definitions, etc.)./*  
 
 ## 📈 Planned Outputs
 - Flowchart of inclusion/exclusion criteria.  
